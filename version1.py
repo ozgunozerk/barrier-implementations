@@ -2,7 +2,7 @@
 ''' 
 not working solution
 deadlock is present
-only the first thread is able to eecute the critical region
+only the first thread is able to execute the critical region
 '''
 
 
